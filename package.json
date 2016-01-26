@@ -21,6 +21,6 @@
   },
   "homepage": "https://github.com/JoshWillik/ghost-as-middleware#readme",
   "dependencies": {
-    "ghost": "^0.6.4"
+    "ghost": "^0.7.5"
   }
 }
